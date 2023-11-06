@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AlquilerVehiculos" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary Color -->
+        <item name="colorPrimary">#388E3C</item>
+        <item name="colorPrimaryDark">#212121</item>
+        <item name="colorAccent">#C8E6C9</item>
+    </style>
+
+    <style name="Theme.AlquilerVehiculos" parent="Base.Theme.AlquilerVehiculos" />
+</resources>
